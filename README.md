@@ -1,5 +1,8 @@
 # m5c-work-day-scheduler
 
+Description:
+A simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
 User Story:
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
@@ -19,3 +22,9 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+Deployed URL:
+https://aghenderson97.github.io/m5c-work-day-scheduler/
+
+Screenshot:
+![m5c-screenshot](https://user-images.githubusercontent.com/113946573/232788198-fd4076b2-400e-48ea-ae71-27a098b0d1da.gif)
