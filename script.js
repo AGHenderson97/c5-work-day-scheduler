@@ -23,3 +23,12 @@ function getCurrentDay() {
   let textArea = $("<textarea>");
   let button = $("<button>");
   let icon = $("<i>");
+
+  row.attr("value", i);
+
+  row.attr("class", "row time-block");
+  hourSpan.attr("class", "hour col-2");
+  button.attr("class", "saveBtn col-2");
+  icon.attr("class", "far fa-save");
+  textSpan.attr("class", "textSpan col-8")
+  textArea.attr("class", "col-12 h-100"
