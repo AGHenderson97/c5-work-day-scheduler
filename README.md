@@ -27,4 +27,4 @@ Deployed URL:
 https://aghenderson97.github.io/m5c-work-day-scheduler/
 
 Screenshot:
-<img width="922" alt="Screenshot 2023-04-18 at 9 12 47 AM" src="https://user-images.githubusercontent.com/113946573/232788356-9bef2158-9f12-4dde-9c22-4ca7cd213f61.png">
+<img width="1427" alt="Screenshot 2023-04-22 at 11 29 27 PM" src="https://user-images.githubusercontent.com/113946573/233818219-91189cd9-60a1-49d2-8088-0ffc852e7acf.png">
